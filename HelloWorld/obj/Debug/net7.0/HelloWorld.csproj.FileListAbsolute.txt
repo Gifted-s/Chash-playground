@@ -1,0 +1,15 @@
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/mackbook/Documents/Codebase/VB/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
